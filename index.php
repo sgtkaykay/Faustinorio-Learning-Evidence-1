@@ -377,7 +377,7 @@
           that comes with different flavors! Such as raspberry, orange, apple,
           blueberry and more!</p>
       </div>
-    </div>
+      <div class="clear"></div>
     </div>
     <div class="footer">
       <div class="cloudcontain5">
