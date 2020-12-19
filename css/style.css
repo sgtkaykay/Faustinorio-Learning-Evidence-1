@@ -16,6 +16,10 @@ body{
   background-color: skyblue;
 }
 
+.clear{
+  clear:left;	
+}
+
 #logo {
   position: absolute;
 	top: 40px;
