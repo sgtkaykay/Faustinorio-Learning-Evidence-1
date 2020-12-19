@@ -1175,12 +1175,10 @@ p{
 }
 
 .about{
-	right: 0px;
-    float: left;
-    text-align: left;
-    width: 650px;
-    height: auto;
-    position: absolute;
+	float:left;
+	text-align: left;
+	width:720px;
+	height: auto;
 }
 
 .bottle {
